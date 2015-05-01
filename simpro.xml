@@ -10,8 +10,8 @@
       <block type="variables_set" id="112" inline="true">
         <field name="VAR">leftFront</field>
         <value name="VALUE">
-          <block type="sensor_button" id="165">
-            <field name="OBJECT">LEFT</field>
+          <block type="sensor_object" id="434">
+            <field name="OBJECT">LEFTFRONT</field>
           </block>
         </value>
         <next>
