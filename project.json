@@ -1,0 +1,10 @@
+{
+    "name": "simpro",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "simpro.xml",
+    "author": "zoezhen",
+    "minimum_firmware_version": 42
+}
